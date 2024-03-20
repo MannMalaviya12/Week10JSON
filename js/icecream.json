@@ -12,7 +12,7 @@
             "calories": 126,
             "type": "ice-cream",
             "ingredients": ["Chocolate Syrup","Peppermint Sprinkles","Vanilla Base"],
-            "image": ""
+            "image": "https://github.com/MannMalaviya12/Week10JSON.git"
         },
         {
             "name": "Peach Mango",
